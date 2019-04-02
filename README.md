@@ -1,5 +1,8 @@
 # Scrum Developer Initiate Training
-Training and Tests for an Initiate Scrum Developer
+Training and Tests for an Initiate Scrum Developer, inspired by The Jedi Path
+
+## Introduction
+
 
 ## The Three Pillars
 
@@ -20,3 +23,7 @@ Training and Tests for an Initiate Scrum Developer
 - Self Development
    - Cows and Bulls Project
    - Learn API Development
+
+   
+## The Initiate Trials
+A series of tests to 
