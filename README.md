@@ -1,19 +1,19 @@
 # Scrum Developer Initiate Training
 Training and Tests for an Initiate Scrum Developer
 
-##The Three Pillars
+## The Three Pillars
 
-###Scrum and Agile
+### Scrum and Agile
   Roles
 	Ceremonies
 	Story Slicing
   
-###Knowledge
+### Knowledge
   Base Principles
   Clean Coding
   Baked Quality
   
-###Self-Discipline
+### Self-Discipline
   Problem Solving
     Algebraic Maths
     Simple Programming
