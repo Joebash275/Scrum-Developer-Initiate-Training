@@ -1,8 +1,13 @@
 # Scrum Developer Initiate Training
-Training and Tests for an Initiate Scrum Developer, inspired by The Jedi Path
+Training and Tests for an Initiate Scrum Developer, inspired by The Jedi Path.
+
 
 ## Introduction
 
+- Entry Level Developer (Initiate)
+- Associate Developer (Padawan)
+- Developer (Jedi Knight)
+- Senior Developer (Jedi Master)
 
 ## The Three Pillars
 
