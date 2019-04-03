@@ -60,6 +60,6 @@ Having no unnecessary attachments, they can act forthrightly and without fear.
 
 ## The Initiate Trials
 For a Scrum developer to progress between stages, 
-they must complete a series of trials, to assert there competencies.
+they must complete a series of trials, to assert their competencies.
 
 [Begin Trials](./Initiate_Trials/Trials.md)
