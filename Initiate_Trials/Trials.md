@@ -15,6 +15,14 @@ The results of your Initiate trials will be recorded within a branch of this Git
 For each of the following questions, write a small sudo code solution to resolve the answers.
 Place each answer in its respective answer code block.
 
+__Example__
+```
+a - 5 = 4
+```
+```
+let a = 4 + 5;
+```
+
 When all questions are complete, update trial status to complete, then commit and push your changes
 
 1. Resolve the value of a
@@ -43,7 +51,6 @@ a + b + c = 12
 ```
 answer
 ```
-
 #### STATUS: incomplete
 
 ## Trial by Algorithm
