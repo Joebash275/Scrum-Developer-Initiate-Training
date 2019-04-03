@@ -18,6 +18,8 @@ defining a series of tasks and tests to facilitate a potential Scrum developers 
 
 ## The Three Pillars
 The Three Pillars are key to a developers strength.
+These pillars exist across all 4 stages of a Scrum developers journey.
+As the developer progresses through the stages, the three pillars evolve with greater layers of understanding.
 
 For a Scrum Developer to become successful they must have all three pillars in balance.
 
@@ -56,6 +58,8 @@ Having no unnecessary attachments, they can act forthrightly and without fear.
 
 [Begin Training](./Three_Pillars/Self-Discipline)
 
-   
 ## The Initiate Trials
-A series of tests to 
+For a Scrum developer to progress between stages, 
+they must complete a series of trials, to assert there competencies.
+
+[Begin Trials](./Initiate_Trials/Trials.md)
