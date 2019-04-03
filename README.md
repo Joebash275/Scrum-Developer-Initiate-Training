@@ -1,33 +1,60 @@
 # Scrum Developer Initiate Training
 Training and Tests for an Initiate Scrum Developer, inspired by The Jedi Path.
 
-
 ## Introduction
+As with the Jedi, 
+Scrum developers follow a defined path on their journey to becoming confident and capable programmers, 
+efficiently delivering quality software.
+
+There are 4 main defined stages of the path.
 
 - Entry Level Developer (Initiate)
 - Associate Developer (Padawan)
 - Developer (Jedi Knight)
 - Senior Developer (Jedi Master)
 
-## The Three Pillars
+This training concentrates on the Initiate stage, 
+defining a series of tasks and tests to facilitate a potential Scrum developers growth to Padawan.
 
-### Scrum and Agile
-- Roles
-- Ceremonies
-- Story Slicing
+## The Three Pillars
+The Three Pillars are key to a developers strength.
+
+For a Scrum Developer to become successful they must have all three pillars in balance.
 
 ### Knowledge
-- Base Principles
-- Clean Coding
-- Baked Quality
+Knowledge and learning are foundation to Scrum developer’s journey.
+Only through knowledge can we combat ignorance. 
+The life of a Scrum developer should be one of constant learning, constant self-improvement.
+Through diligent study, a Scrum developer will broaden their horizons and be able to embrace new facts and ideas.
+
+[Begin Training](./Three_Pillars/Knowledge.md)
+
+### Scrum and Agile
+A Scrum developer lives by a code of conduct, 
+a set of values facilitating them with the correct attitudes to guide and be guided.
+##### The 5 Scrum Values
+- Courage
+- Focus
+- Commitment
+- Respect
+- Openness
+
+A Scrum developer also understands the value of early delivering of solutions, 
+accepting feedback and iteratively growing themselves and their solutions.
+
+[Begin Training](./Three_Pillars/Scrum_and_Agile.md)
 
 ### Self-Discipline
-- Problem Solving
-  - Algebraic Maths
-  - Simple Programming
-- Self Development
-   - Cows and Bulls Project
-   - Learn API Development
+Self-Discipline is a necessary ingredient to become a Scrum developer.
+They do not seek to control others, but instead seek to master themselves.
+Without self-discipline a Scrum developer cannot get far in their training.
+Part of self-discipline is personal responsibility.
+Ultimately you are responsible for your own fate, determined by the decisions you have made in the circumstances you find yourself in.
+A Scrum developer does not blame others for shortcomings and failures and uses such setbacks as a learning experience.
+A self-disciplined Scrum developer will be industrious, and in control of their emotions.
+Having no unnecessary attachments, they can act forthrightly and without fear.
+
+[Begin Training](./Three_Pillars/Self-Discipline)
 
    
 ## The Initiate Trials
